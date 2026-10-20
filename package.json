@@ -8,5 +8,9 @@
   },
   "peerDependencies": {
     "typescript": "^5"
+  },
+  "dependencies": {
+    "@types/node": "^26.6.5",
+    "openai": "^7.39.0"
   }
 }
