@@ -121,3 +121,5 @@ Also the output is quite interesting and lots of things to check and look into
 ```
 
 </details>
+
+With that being done, lets start some small library like `picocolors` to color the terminal outputs so things are a bit easier to see.

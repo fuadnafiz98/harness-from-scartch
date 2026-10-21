@@ -104,3 +104,8 @@ bun --hot ./index.ts
 ```
 
 For more information, read the Bun API docs in `node_modules/bun-types/docs/**.mdx`.
+
+## Code style
+
+- STRICTLY no comments in code. Never add `//`, `/* */`, or JSDoc comments, and remove any you encounter.
+- Express intent through clear names and small functions instead.
